@@ -1,0 +1,75 @@
+2020-04-28 18:13:03,861 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 54064), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:14:28,818 - vs2lab.lab1.clientserver.Server - INFO - Server bound to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=2049, proto=0, laddr=('127.0.0.1', 50007)>
+2020-04-28 18:15:11,709 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 54194), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:15:47,061 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 54196), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:17:16,271 - vs2lab.lab1.clientserver.Server - INFO - Server bound to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=2049, proto=0, laddr=('127.0.0.1', 50007)>
+2020-04-28 18:17:33,690 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48834), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:18:59,748 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48844), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:18:59,749 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:20:31,447 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48846), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:20:31,448 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:20:31,450 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48848), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:20:31,450 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:23:48,275 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48852), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:23:48,276 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:23:48,278 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48854), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:24:44,251 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48856), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:24:44,251 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:24:44,254 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48858), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:24:44,255 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:24:44,255 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48860), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:24:44,256 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:25:32,793 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48862), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:25:32,794 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:25:32,797 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48864), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:25:32,797 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:25:32,798 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48866), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:25:32,798 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:25:32,799 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48868), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:25:32,799 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:25:32,801 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48870), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:25:32,801 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:25:32,802 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48872), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:25:32,802 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:25:51,210 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48874), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:25:51,211 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:25:51,213 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48876), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:25:51,213 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:25:51,214 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48878), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:25:51,215 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:25:51,215 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48880), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:25:51,216 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:26:30,775 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48884), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:26:30,776 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:26:30,778 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48886), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:26:30,779 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:26:30,780 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48888), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:26:30,780 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:26:30,781 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48890), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:26:30,781 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:26:30,782 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48892), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:26:30,782 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:26:30,783 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48894), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:26:30,783 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:42:42,525 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48902), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:42:42,526 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:42:42,529 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48904), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:42:42,529 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:42:42,530 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48906), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:42:42,530 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:42:42,531 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48908), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:42:42,531 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:42:42,532 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48910), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:42:42,532 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:42:42,533 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48912), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:42:42,533 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:43:56,796 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=58, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 49118), raddr=('127.0.0.1', 50007)>
+2020-04-28 18:43:57,652 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:44:28,516 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:44:29,169 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:44:29,819 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:44:30,409 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:44:32,347 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:44:33,002 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:44:36,243 - vs2lab.a1_layers.clientserver.Client - INFO - Successfully sent.
+2020-04-28 18:44:36,999 - vs2lab.a1_layers.clientserver.Client - INFO - Connection closed.
